@@ -1,2 +1,2 @@
 # financial-analysis-and-management
-an application that will help you achieve financial stability and prosperity
+an application helping you achieve financial stability and prosperity
