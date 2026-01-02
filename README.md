@@ -1,129 +1,66 @@
-# 📊 Financial Analysis & Management Web App
+# 📊 Financial Analysis & Management
 
-Welcome to **Financial Analysis & Management**, a simple yet powerful web application for tracking and analyzing your weekly income and expenses. Designed for individuals, freelancers, or small businesses, this app helps you make sense of your finances with clarity and ease.  
-
----
-
-## 📝 Table of Contents
-1. [Overview](#overview)  
-2. [Features](#features)  
-3. [How It Works](#how-it-works)  
-4. [User Guide](#user-guide)  
-5. [Screenshots](#screenshots)  
-6. [Getting Started](#getting-started)  
-7. [Future Improvements](#future-improvements)  
-8. [Contact & Support](#contact--support)  
+**Financial Analysis & Management** is a web-based application designed for individuals, freelancers, and small businesses to track and analyze their weekly income and expenses efficiently. It provides a clear overview of finances and helps users make informed financial decisions.
 
 ---
 
-## 🌟 Overview
+## 📝 Key Features
 
-The app allows you to:
-
-- Record daily **income** and **expenses** for a full week.  
-- Add **extra expenses** with descriptions for better tracking.  
-- Automatically calculate **weekly totals** and **profit**.  
-- Identify the **best and worst financial days**.  
-- Store all data locally in your browser—no accounts needed!  
-
-The interface is clean, professional, and mobile-friendly, making it easy for anyone to use.  
-
----
-
-## 🛠 Features
-
-| Feature | Description |
-|---------|-------------|
-| Daily Tracking | Enter your income and expenses for each day of the week. |
-| Extra Expenses | Add custom categories for unexpected costs. |
-| Weekly Analysis | See totals for income, expenses, profit, and best/worst days. |
-| Local Storage | All data is saved in your browser; nothing is sent online. |
-| User-Friendly UI | Minimalist and clear design for professional use. |
+- Track daily income and expenses for a full week.  
+- Record extra expenses with descriptive categories.  
+- Automatic weekly analysis including total income, total expenses, net profit, and identification of best and worst financial days.  
+- Local data storage in the browser for secure persistence without accounts.  
+- Clean, professional, and user-friendly interface.
 
 ---
 
 ## ⚙️ How It Works
 
-1. **Daily Inputs:** Enter your income and expenses for each day.  
-2. **Add Extra Expenses:** Specify reason and amount for any additional costs.  
-3. **Weekly Analysis:** Click “Weekly Analysis” to see a detailed report.  
-4. **End Week:** Reset data for a fresh start while keeping a summary report.  
+1. **Daily Inputs**  
+   Enter your income and expenses for each day (Monday to Sunday) and click **Add** to save.  
+
+2. **Extra Expenses**  
+   Enter the reason and amount for any additional costs and click **Add**.  
+
+3. **Weekly Analysis**  
+   Click **Weekly Analysis** to generate a full report showing totals, profit, best/worst days, and extra expenses summary.  
+
+4. **End Week**  
+   Click **End Week** to reset weekly data for a new cycle. The last report remains visible until the page reloads.
 
 ---
 
-## 🧑‍💻 User Guide
+## 📊 User Guide
 
-### Step 1: Input Daily Finances
-- Navigate to the day (Monday–Sunday).  
-- Enter numbers in **Income** and **Expense** fields.  
-- Click **Add** to save the values.  
-
-### Step 2: Add Extra Expenses
-- Type a **reason** (e.g., “Office Supplies”).  
-- Enter **amount** in euros.  
-- Click **Add** to register the expense.  
-
-### Step 3: Weekly Analysis
-- Click **Weekly Analysis** to generate a report showing:  
-  - Total Income  
-  - Total Expenses  
-  - Net Profit  
-  - Best & Worst Day  
-  - Extra Expenses Summary  
-
-### Step 4: End Week
-- Click **End Week** to clear weekly data and start fresh.  
-- Your analysis remains visible until you reload the page.  
-
----
-
-## 📸 Screenshots
-
-### 1. Weekly Input View
-![Weekly Input](images/week_input.png)  
-
-### 2. Adding Extra Expenses
-![Extra Expenses](images/extra_expenses.png)  
-
-### 3. Weekly Analysis Report
-![Weekly Report](images/weekly_report.png)  
-
-> *Tip: Replace these placeholders with actual screenshots from your app to impress viewers.*
+1. Open the application in any modern browser (Chrome, Firefox, Edge).  
+2. Enter your daily income and expenses for each day.  
+3. Add extra expenses if needed.  
+4. Click **Weekly Analysis** to view the report.  
+5. Use **End Week** to start a new week.  
 
 ---
 
 ## 🚀 Getting Started
 
-1. **Download the project** or clone from GitHub.  
-2. Open `index.html` in any modern browser (Chrome, Firefox, Edge).  
-3. Start entering your income, expenses, and extras.  
+1. Download or clone the project.  
+2. Open `index.html` in a modern browser.  
+3. Start tracking your finances immediately.  
 
-*No installation or server required.*  
+*No installation or backend required.*
 
 ---
 
 ## 🔮 Future Improvements
 
-- Export reports to **Excel** or **PDF**.  
-- Add **monthly/annual summaries**.  
-- Include **charts and graphs** for visual analysis.  
-- Dark mode for better readability.  
+- Export reports to Excel or PDF.  
+- Include monthly and annual summaries.  
+- Add charts and graphs for visual analysis.  
+- Optional dark mode for better readability.
 
 ---
 
-## 📞 Contact & Support
+## 📞 Contact
 
-For questions, feedback, or collaboration:  
+For questions or support:  
 
-- **Email:** yourname@example.com  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-
----
-
-### ✅ Tips for Making It Impress Users
-
-- Use clear screenshots of the app in action.  
-- Highlight the simplicity and professional look of the UI.  
-- Emphasize that no login or database is needed.  
-- Include emojis sparingly to make sections pop.  
+- **Email:** swtkotsio@gmail.com
